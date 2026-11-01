@@ -7,6 +7,7 @@ and occasionally breaking them to learn more.
 
  ─ Contact ─────────────────
 Email: khoingo.dev@gmail.com
+
 ─ Tech ────────────────────
 C# · Java · SQL
 JavaScript · React
