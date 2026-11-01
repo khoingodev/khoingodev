@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-$ whoami
-
-khoingodev
 IT Student · Vietnam
 
 Building things, learning how they work,
