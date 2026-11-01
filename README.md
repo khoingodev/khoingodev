@@ -1,14 +1,13 @@
 ## Hi there 👋
 
+$ whoami
+
+khoingodev
 IT Student · Vietnam
 
-Building things, learning how they work,<br>
+Building things, learning how they work,
 and occasionally breaking them to learn more.
 
- ─ Contact ─────────────────
-Email: khoingo.dev@gmail.com
+────────────────────────────────────────────
 
-─ Tech ────────────────────
-C# · Java · SQL
-JavaScript · React
-Git · Postman · DBeaver
+Contact · khoingo.dev@gmail.com
